@@ -25,7 +25,7 @@ THEN that note appears in the right-hand column and a "New Note" button appears 
 WHEN I click on the "New Note" button in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column and the button disappears
 ```
-Heroku URL: herokuapp.com/
+Heroku URL: https://note-taker-express-graham-1c109b95bf05.herokuapp.com/
 GitHub Repo URL: https://github.com/Grahamy27/note-taker-express-Graham
 ## Description
 - My motivation for this project was to create a note taking web application so I can list notes and save them. A future iteration of the project would be to add a delete function.
